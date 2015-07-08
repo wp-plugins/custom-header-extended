@@ -4,8 +4,7 @@ Contributors: greenshady
 Donate link: http://themehybrid.com/donate
 Tags: post, posts, admin, image, images, header, color
 Requires at least: 3.6
-Tested up to: 3.9.1
-Stable tag: 0.1.1
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -148,11 +147,16 @@ Unfortunately, I cannot provide free support for this plugin to everyone. I hone
 
 == Changelog ==
 
-### Version 0.1.1 ###
+Please see the `changelog.md` file included with the plugin.  Or, you can view the [online change log](https://github.com/justintadlock/custom-header-extended/blob/master/changelog.md)
 
-* Fixed for translations where there was a typo in the textdomain.
-* Updated plugin file headers.
 
-### Version 0.1.0 ###
 
-* Everything's new!
+
+
+
+
+
+
+
+
+
